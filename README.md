@@ -12,6 +12,10 @@ This repository contains a Python script that demonstrates real-time object dete
 - Exit button to gracefully terminate the program
 - Integration with Google Colab for easy setup and execution
 
+## Results
+### Person and Scissors Detected
+![](https://github.com/ericyoc/yolo-inference-obj-detect-webcam-google-co-lab-poc/blob/main/person__0.95_scissors__0.95.jpg)
+
 ## YOLOv8 Pre-trained Model
 
 The script utilizes the YOLOv8 (You Only Look Once version 8) pre-trained model for object detection. YOLOv8 is a state-of-the-art object detection model known for its high accuracy and real-time performance. It is capable of detecting a wide range of objects across various categories. For a complete list of objects that YOLOv8 can identify, please refer to the COCO dataset classes. [COCO Dataset Information ](https://docs.ultralytics.com/datasets/detect/coco/#dataset-yaml)
