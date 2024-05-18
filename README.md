@@ -14,66 +14,7 @@ This repository contains a Python script that demonstrates real-time object dete
 
 ## YOLOv8 Pre-trained Model
 
-The script utilizes the YOLOv8 (You Only Look Once version 8) pre-trained model for object detection. YOLOv8 is a state-of-the-art object detection model known for its high accuracy and real-time performance. It is capable of detecting a wide range of objects across various categories, including but not limited to:
-
-- Person
-- Car
-- Truck
-- Bicycle
-- Motorcycle
-- Bus
-- Train
-- Airplane
-- Boat
-- Traffic light
-- Fire hydrant
-- Stop sign
-- Parking meter
-- Bench
-- Bird
-- Cat
-- Dog
-- Horse
-- Sheep
-- Cow
-- Elephant
-- Bear
-- Zebra
-- Giraffe
-- Backpack
-- Umbrella
-- Handbag
-- Tie
-- Suitcase
-- Frisbee
-- Skis
-- Snowboard
-- Sports ball
-- Kite
-- Baseball bat
-- Baseball glove
-- Skateboard
-- Surfboard
-- Tennis racket
-- Bottle
-- Wine glass
-- Cup
-- Fork
-- Knife
-- Spoon
-- Bowl
-- Banana
-- Apple
-- Sandwich
-- Orange
-- Broccoli
-- Carrot
-- Hot dog
-- Pizza
-- Donut
-- Cake
-
-For a complete list of objects that YOLOv8 can identify, please refer to the COCO dataset classes. [COCO Dataset Information ](https://docs.ultralytics.com/datasets/detect/coco/)
+The script utilizes the YOLOv8 (You Only Look Once version 8) pre-trained model for object detection. YOLOv8 is a state-of-the-art object detection model known for its high accuracy and real-time performance. It is capable of detecting a wide range of objects across various categories. For a complete list of objects that YOLOv8 can identify, please refer to the COCO dataset classes. [COCO Dataset Information ](https://docs.ultralytics.com/datasets/detect/coco/#dataset-yaml)
 
 ## Confidence Threshold and Object Identification
 
