@@ -2,6 +2,9 @@
 
 This repository contains a Python script that demonstrates real-time object detection using the YOLOv8 pre-trained model. The script utilizes the YOLOv8 model to identify objects in a live video stream captured from the user's webcam. It provides a user-friendly interface with buttons for capturing images, toggling single object detection, and exiting the program.
 
+## Motivating Articles and Related Work
+Lin, T. Y., Maire, M., Belongie, S., Hays, J., Perona, P., Ramanan, D., ... & Zitnick, C. L. (2014). Microsoft coco: Common objects in context. In Computer Vision–ECCV 2014: 13th European Conference, Zurich, Switzerland, September 6-12, 2014, Proceedings, Part V 13 (pp. 740-755). Springer International Publishing. https://link.springer.com/chapter/10.1007/978-3-319-10602-1_48
+
 ## Features
 
 - Real-time object detection using the YOLOv8 pre-trained model
