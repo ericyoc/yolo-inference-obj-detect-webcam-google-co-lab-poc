@@ -1,4 +1,4 @@
-# Real-Time Object Detection with YOLOv8
+# Real-Time Object Detection with Webcam and Google Co-lab
 
 This repository contains a Python script that demonstrates real-time object detection using the YOLOv8 pre-trained model. The script utilizes the YOLOv8 model to identify objects in a live video stream captured from the user's webcam. It provides a user-friendly interface with buttons for capturing images, toggling single object detection, and exiting the program.
 
@@ -15,6 +15,15 @@ This repository contains a Python script that demonstrates real-time object dete
 ## Results
 ### Person and Scissors Detected
 ![](https://github.com/ericyoc/yolo-inference-obj-detect-webcam-google-co-lab-poc/blob/main/person__0.95_scissors__0.95.jpg)
+
+### Person and Bottle Detected
+![](https://github.com/ericyoc/yolo-inference-obj-detect-webcam-google-co-lab-poc/blob/main/person__0.96_bottle__0.89.jpg)
+
+### Person and Cup Detected
+![](https://github.com/ericyoc/yolo-inference-obj-detect-webcam-google-co-lab-poc/blob/main/person__0.97_cup__0.94.jpg)
+
+### Only Bottle Detected
+![](https://github.com/ericyoc/yolo-inference-obj-detect-webcam-google-co-lab-poc/blob/main/bottle_0.86.jpg)
 
 ## YOLOv8 Pre-trained Model
 
