@@ -5,6 +5,8 @@ This repository contains a Python script that demonstrates real-time object dete
 ## Motivating Articles and Related Work
 Lin, T. Y., Maire, M., Belongie, S., Hays, J., Perona, P., Ramanan, D., ... & Zitnick, C. L. (2014). Microsoft coco: Common objects in context. In Computer Vision–ECCV 2014: 13th European Conference, Zurich, Switzerland, September 6-12, 2014, Proceedings, Part V 13 (pp. 740-755). Springer International Publishing. https://link.springer.com/chapter/10.1007/978-3-319-10602-1_48
 
+Vijayakumar, A., & Vairavasundaram, S. (2024). YOLO-based Object Detection Models: A Review and its Applications. Multimedia Tools and Applications, 1-40. https://link.springer.com/article/10.1007/s11042-024-18872-y
+
 ## Features
 
 - Real-time object detection using the YOLOv8 pre-trained model
