@@ -1,4 +1,4 @@
-# Real-Time Object Detection with Webcam and Google Co-lab
+# Real-Time Object Detection with Webcam and Integration with Google Co-lab
 
 This repository contains a Python script that demonstrates real-time object detection using the YOLOv8 pre-trained model. The script utilizes the YOLOv8 model to identify objects in a live video stream captured from the user's webcam. It provides a user-friendly interface with buttons for capturing images, toggling single object detection, and exiting the program.
 
