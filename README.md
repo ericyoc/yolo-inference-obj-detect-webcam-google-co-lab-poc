@@ -7,6 +7,8 @@ Lin, T. Y., Maire, M., Belongie, S., Hays, J., Perona, P., Ramanan, D., ... & Zi
 
 Vijayakumar, A., & Vairavasundaram, S. (2024). YOLO-based Object Detection Models: A Review and its Applications. Multimedia Tools and Applications, 1-40. https://link.springer.com/article/10.1007/s11042-024-18872-y
 
+YOLO Docs https://docs.ultralytics.com/
+
 ## Features
 
 - Real-time object detection using the YOLOv8 pre-trained model
